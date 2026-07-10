@@ -11,3 +11,9 @@ I'm learning Git and GitHub to contribute to open source projects.
 - AI Tools
 
 Thank you for visiting!# my-first-open-source-
+
+
+## Goals
+- Learn Git
+- Contribute to Open Source
+- Build AI Projects
